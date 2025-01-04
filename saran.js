@@ -64,7 +64,7 @@ let score=0;
 
 function startQuiz() {
     currentQuestionIndex=0;
-    score=0;
+    score=10;
     nextButton.innerHTML = "Next";
     showQuestion();                                            
 }
