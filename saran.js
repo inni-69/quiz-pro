@@ -3,7 +3,7 @@ const questions = [
             question : "Which one of the following is an application of Stack Data Structure? ",
             answers: [
                 { text: "Managing function calls", correct: false},
-                { text: "Managing function calls", correct: false},
+                { text: "Deleting function calls", correct: false},
                 { text: "Arithmetic expression evaluation", correct: false},
                 { text: "All of the above", correct: true},
             ]
